@@ -39,7 +39,4 @@ int main(){
     funzioneGlobale();
 
     return 0;
-
 }
-
-

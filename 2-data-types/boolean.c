@@ -12,9 +12,6 @@ int main() {
         printf("b è falso\n");
     }
     printf("%d\n%d\n%d\n", a, b, c);
+    
     return 0;
 }
-
-
-
-

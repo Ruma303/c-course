@@ -25,8 +25,5 @@ int main() {
     printf("\n%s %i\n", "Somma :", somma);
     printf("Numeri di variabili acquisite: %i\n", num);
 
-
     return 0;
 }
-
-
