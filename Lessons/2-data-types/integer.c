@@ -42,29 +42,29 @@ int main(){
 
     //% Esempi sintassi
 
-    /* //* Esempio 1: Dichiarazione e assegnazione di int
-    int num = 100; // dichiarazione e assegnazione di una variabile int
-    printf("Il valore di num è: %d\n", num); // stampa la variabile
+    /* // Inizializzazione di una variabile int
+    int int_num = 100;
+    printf("Il valore di int_num è: %d\n", int_num);
 
-    //* Esempio 2: Dichiarazione e assegnazione di char
-    char ch = 'A'; // dichiarazione e assegnazione di una variabile char
-    printf("Il valore di ch è: %c\n", ch); // stampa la variabile
+    // Inizializzazione di una variabile char
+    char char_num = 'A';
+    printf("Il valore di char_num è: %c\n", char_num);
 
-    //* Esempio 3: Dichiarazione e assegnazione di short
-    short num = 30000; // dichiarazione e assegnazione di una variabile short
-    printf("Il valore di num è: %hd\n", num); // stampa la variabile
+    // Inizializzazione di una variabile short
+    short short_num = 30000;
+    printf("Il valore di short_num è: %hd\n", short_num);
 
-    //* Esempio 4: Dichiarazione e assegnazione di long
-    long num = 1000000L; // dichiarazione e assegnazione di una variabile long
-    printf("Il valore di num è: %ld\n", num); // stampa la variabile
+    // Inizializzazione di una variabile long
+    long long_num = 1000000L;
+    printf("Il valore di long_num è: %ld\n", long_num);
 
-    //* Esempio 5: Dichiarazione e assegnazione di long long
-    long long num = 10000000000LL; // dichiarazione e assegnazione di una variabile long long
-    printf("Il valore di num è: %lld\n", num); // stampa la variabile
+    // Inizializzazione di una variabile long long
+    long long long_long_num = 10000000000LL;
+    printf("Il valore di long_long_num è: %lld\n", long_long_num);
 
-    //* Esempio 6: Dichiarazione e assegnazione di unsigned int
-    unsigned int num = 4000000000U; // dichiarazione e assegnazione di una variabile unsigned int
-    printf("Il valore di num è: %u\n", num); // stampa la variabile
- */
+    // Inizializzazione di una variabile unsigned int
+    unsigned int unsigned_num = 4000000000U;
+    printf("Il valore di unsigned_num è: %u\n", unsigned_num); */
+
     return 0;
 }

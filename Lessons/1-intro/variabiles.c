@@ -21,8 +21,7 @@ int main(){
 
     var1 = 42;
 
-    //printf("%d", my_var1);
-    // 2867012
+    //printf("%d", my_var1); // Esempio: 2867012
 
     //printf("%d", var1); // 42
 
