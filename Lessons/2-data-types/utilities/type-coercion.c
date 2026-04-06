@@ -13,11 +13,11 @@ int main() {
     */
 
     //, Type Promotion
-    /*
+    
     int a = 5;
     float b = a; // a viene promosso implicitamente in float
     printf("b = %f\n", b); // b = 5.000000
-    */
+    
 
     //, Type Demotion
     /*

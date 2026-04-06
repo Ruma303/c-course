@@ -209,3 +209,6 @@ logs/
 # File di backup e conflitti merge
 *.orig
 *.rej
+
+# File C e C++
+**.dSYM
